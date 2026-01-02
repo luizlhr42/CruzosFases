@@ -4,11 +4,12 @@
   "rows": 6,
   "cols": 7,
   "layout": [
-    "DIGNO",
-    "E#O##",
-    "VALA#",
-    "E#PIO",
-    "R#EA#"
+    "DIGNO##",
+    "E#O###",
+    "VALA##",
+    "E#PIO##",
+    "R#EA###",
+    "R#EA###"
   ],
   "blocks": [
     {
@@ -35,4 +36,5 @@
   "hintsRight": [],
   "hintsBottom": []
 }
+
 
