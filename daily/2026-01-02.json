@@ -43,17 +43,25 @@
     "cols": 10,
     "layout": ["..."],
     "blocks": [...],
-    "hintsTop": [...]
+    "hintsTop": []
   },
   {
     "difficulty": "HARD",
     "rows": 15,
     "cols": 15,
     "layout": ["..."],
-    "blocks": [...],
-    "hintsTop": [...]
+    "blocks": [ {
+      "row": 1,
+      "col": 3,
+      "text": "Dona de\nCompanhia",
+      "arrows": ["DOWN"]
+    }],
+    "hintsTop": [
+    {"index": 0, "text": "Ter de\nPagar"},
+    {"index": 2, "text": "Pancada\nMurro"}]
   }
 }
+
 
 
 
