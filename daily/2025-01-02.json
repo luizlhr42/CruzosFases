@@ -2,7 +2,7 @@
   "id": 1,
   "difficulty": "EASY",
   "rows": 6,
-  "cols": 5,
+  "cols": 7,
   "layout": [
     "DIGNO",
     "E#O##",
@@ -14,7 +14,7 @@
     {
       "row": 1,
       "col": 3,
-      "text": "Dama de\nCompanhia",
+      "text": "Dona de\nCompanhia",
       "arrows": ["DOWN"]
     },
     {
@@ -35,3 +35,4 @@
   "hintsRight": [],
   "hintsBottom": []
 }
+
