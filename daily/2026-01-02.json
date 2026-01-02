@@ -2,12 +2,12 @@
   {
     "id": 1,
     "difficulty": "EASY",
-    "rows": 10,
-    "cols": 10,
+    "rows": 5,
+    "cols": 5,
     "layout": [
       "DIGNO",
       "E#O##",
-      "RALA#",
+      "VALA#",
       "E#PIO",
       "R#EA#"
     ],
@@ -27,34 +27,55 @@
     "hintsRight": [],
     "hintsBottom": []
   },
-
-
-
-   {
-    "id": 1,
+  {
+    "id": 2,
     "difficulty": "MEDIUM",
     "rows": 10,
     "cols": 10,
     "layout": [
- 
+      "U##AMOLAR#",
+      "T##LAM##A#",
+      "OPMET##PIO",
+      "PRESUNÇÃO#",
+      "I#D#R##O#B",
+      "ALUSIVO##O",
+      "##L#D#DOER",
+      "EXATAMENTE",
+      "####D#I##A",
+      "GREVE#O##L"
     ],
-    "blocks": [
-      { "row": 1, "col": 1, "text": "Dama de\nCompanhia", "arrows": ["DOWN"] },
-      { "row": 3, "col": 1, "text": "\nQue relevela \nCaridade\nDevoto Religioso", "arrows": ["RIGHT"] },
-      { "row": 4, "col": 1, "text": "\nEmpresa de\nJogos\nLoot Boxes", "arrows": ["RIGHT"] }
-    ],
-    "hintsTop": [
-      { "index": 0, "text": "Ter de\nPagar" },
-      { "index": 2, "text": "Pancada\nMurro" }
-    ],
-    "hintsLeft": [
-      { "index": 0, "text": "Merecedor\nHonrado" },
-      { "index": 2, "text": "Escavação\nAlongada" }
-    ],
+    "blocks": [],
+    "hintsTop": [],
+    "hintsLeft": [],
     "hintsRight": [],
     "hintsBottom": []
   },
+  {
+    "id": 3,
+    "difficulty": "HARD",
+    "rows": 15,
+    "cols": 15,
+    "layout": [
+      "PRINCIPAL#PENTE",
+      "#E##U#A#A##N###",
+      "ACNE#ARAME#TUDO",
+      "#O####TIETAR###",
+      "ANEL##IAN##ESTA",
+      "#H##EXCITANTE#D",
+      "#E#N##U#A##ERVA",
+      "#C#E#CLAVE#N##M",
+      "SIMULTANEA#ILHA",
+      "#M#T#DROL##M##H",
+      "#E#R##I##AMENIC",
+      "ENROLADO#R#N#A#",
+      "#T##I#A#EDITORA",
+      "JOB#MADAME#O#A#",
+      "####OPERAR#####"
+    ],
+    "blocks": [],
+    "hintsTop": [],
+    "hintsLeft": [],
+    "hintsRight": [],
+    "hintsBottom": []
+  }
 ]
-
-
-
