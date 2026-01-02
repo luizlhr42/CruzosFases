@@ -2,8 +2,8 @@
   {
     "id": 1,
     "difficulty": "EASY",
-    "rows": 5,
-    "cols": 5,
+    "rows": 10,
+    "cols": 10,
     "layout": [
       "DIGNO",
       "E#O##",
@@ -55,4 +55,5 @@
     "hintsBottom": []
   },
 ]
+
 
