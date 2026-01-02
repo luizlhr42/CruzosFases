@@ -42,7 +42,7 @@
     "rows": 10,
     "cols": 10,
     "layout": ["..."],
-    "blocks": [...],
+    "blocks": [],
     "hintsTop": []
   },
   {
@@ -61,6 +61,7 @@
     {"index": 2, "text": "Pancada\nMurro"}]
   }
 }
+
 
 
 
