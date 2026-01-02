@@ -1,83 +1,26 @@
-{
-  "id": 1,
-  "difficulty": "EASY",
-  "rows": 5,
-  "cols": 5,
-  "layout": [
-    "MARCA",
-    "E#O##",
-    "VALA#",
-    "E#PIO",
-    "R#EA#"
-  ],
-  "blocks": [
-    {
-      "row": 1,
-      "col": 3,
-      "text": "Dona de\nCompanhia",
-      "arrows": ["DOWN"]
-    },
-    {
-      "row": 3,
-      "col": 1,
-      "text": "\nQue relevela \nCaridade\nDevoto Religioso",
-      "arrows": ["RIGHT"]
-    }
-  ],
-  "hintsTop": [
-    {"index": 0, "text": "Ter de\nPagar"},
-    {"index": 2, "text": "Pancada\nMurro"}
-  ],
-  "hintsLeft": [
-    {"index": 0, "text": "Merecedor\nHonrado"},
-    {"index": 2, "text": "Escavação\nAlongada"}
-  ],
-  "hintsRight": [],
-  "hintsBottom": []
-}
-
-{,
+[
+  {
+    "difficulty": "EASY",
+    "rows": 5,
+    "cols": 5,
+    "layout": ["..."],
+    "blocks": [...],
+    "hintsTop": [...]
+  },
   {
     "difficulty": "MEDIUM",
     "rows": 10,
     "cols": 10,
     "layout": ["..."],
-    "blocks": [],
-    "hintsTop": []
+    "blocks": [...],
+    "hintsTop": [...]
   },
   {
     "difficulty": "HARD",
     "rows": 15,
     "cols": 15,
     "layout": ["..."],
-    "blocks": [ {
-      "row": 1,
-      "col": 3,
-      "text": "Dona de\nCompanhia",
-      "arrows": ["DOWN"]
-    }],
-    "hintsTop": [
-    {"index": 0, "text": "Ter de\nPagar"},
-    {"index": 2, "text": "Pancada\nMurro"}]
+    "blocks": [...],
+    "hintsTop": [...]
   }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+]
