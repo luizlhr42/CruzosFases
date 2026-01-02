@@ -36,6 +36,24 @@
   "hintsBottom": []
 }
 
+{,
+  {
+    "difficulty": "MEDIUM",
+    "rows": 10,
+    "cols": 10,
+    "layout": ["..."],
+    "blocks": [...],
+    "hintsTop": [...]
+  },
+  {
+    "difficulty": "HARD",
+    "rows": 15,
+    "cols": 15,
+    "layout": ["..."],
+    "blocks": [...],
+    "hintsTop": [...]
+  }
+}
 
 
 
