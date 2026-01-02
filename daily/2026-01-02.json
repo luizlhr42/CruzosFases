@@ -44,9 +44,19 @@
       "####D#I##A",
       "GREVE#O##L"
     ],
-    "blocks": [],
-    "hintsTop": [],
-    "hintsLeft": [],
+    "blocks": [
+      { "row": 1, "col": 1, "text": "Dama de\nCompanhia", "arrows": ["DOWN"] },
+      { "row": 3, "col": 1, "text": "\nQue relevela \nCaridade\nDevoto Religioso", "arrows": ["RIGHT"] },
+      { "row": 4, "col": 1, "text": "\nEmpresa de\nJogos\nLoot Boxes", "arrows": ["RIGHT"] }
+    ],
+    "hintsTop": [
+      { "index": 0, "text": "Ter de\nPagar" },
+      { "index": 2, "text": "Pancada\nMurro" }
+    ],
+    "hintsLeft": [
+      { "index": 0, "text": "Merecedor\nHonrado" },
+      { "index": 2, "text": "Escavação\nAlongada" }
+    ],
     "hintsRight": [],
     "hintsBottom": []
   },
@@ -79,3 +89,4 @@
     "hintsBottom": []
   }
 ]
+
