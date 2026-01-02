@@ -1,13 +1,14 @@
 {
   "id": 1,
   "difficulty": "EASY",
-  "rows": 6,
+  "rows": 7,
   "cols": 7,
   "layout": [
     "DIGNO##",
     "E#O####",
     "VALA###",
     "E#PIO##",
+    "R#EA###",
     "R#EA###",
     "R#EA###"
   ],
@@ -36,6 +37,7 @@
   "hintsRight": [],
   "hintsBottom": []
 }
+
 
 
 
