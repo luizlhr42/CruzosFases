@@ -5,8 +5,8 @@
   "cols": 7,
   "layout": [
     "DIGNO##",
-    "E#O###",
-    "VALA##",
+    "E#O####",
+    "VALA###",
     "E#PIO##",
     "R#EA###",
     "R#EA###"
@@ -36,5 +36,6 @@
   "hintsRight": [],
   "hintsBottom": []
 }
+
 
 
