@@ -16,7 +16,7 @@
       "row": 1,
       "col": 4,
       "text": "Estrela\nSistema\nSolar",
-      "arrows": ["TOP"]
+      "arrows": ["DOWN"]
     }
   ],
   "hintsTop": [
@@ -27,7 +27,7 @@
     {"index": 0, "text": "Beira\na Pizza"},
     {"index": 2, "text": "Conjuto\nfelinas\nselvagens"}
   ],
-  "hintsRight": [{"index": 4, "text": "Obejto\nde desenho"}],
+  "hintsRight": [{"index": 4, "text": "Objeto\nde desenho"}],
   "hintsBottom": [{"index": 2, "text": "Rainha\nda Catitu"}]
 },
 {
