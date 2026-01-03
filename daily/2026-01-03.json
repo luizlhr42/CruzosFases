@@ -14,12 +14,12 @@
   "blocks": [
     {
       "row": 1,
-      "col": 3,
-      "text": "Dona de\nCompanhia",
+      "col": 4,
+      "text": "Estrela\nSistema\nSolar",
       "arrows": ["DOWN"]
     },
     {
-      "row": 3,
+      "row": 2,
       "col": 1,
       "text": "\nQue relevela \nCaridade\nDevoto Religioso",
       "arrows": ["RIGHT"]
