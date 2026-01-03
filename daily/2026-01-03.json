@@ -35,8 +35,61 @@
   ],
   "hintsRight": [],
   "hintsBottom": []
-}
-
+},
+{
+    "id": 2,
+    "difficulty": "MEDIUM",
+    "rows": 10,
+    "cols": 10,
+    "layout": [
+      "BANANEIRA#",
+      "A#O#V#R##P",
+      "R#L#O#R##A",
+      "IGORLINDO",
+      "O###A##A#A",
+      "########L#",
+      "###CRUZ###",
+      "#T##O##A##",
+      "#E##R##T##",
+      "##########"
+    ],
+    "blocks": [
+       { "row": 0, "col": 9, "text": "Fim", "arrows": ["DOWN"] }
+    ],
+    "hintsTop": [],
+    "hintsLeft": [],
+    "hintsRight": [],
+    "hintsBottom": []
+  },
+  {
+    "id": 3,
+    "difficulty": "HARD",
+    "rows": 15,
+    "cols": 15,
+    "layout": [
+      "COMPUTADORES###",
+      "O##O###A##A####",
+      "D##U###T##T####",
+      "I##S###O##O####",
+      "G#########S####",
+      "O##############",
+      "###############",
+      "##INTERNET#####",
+      "###############",
+      "###############",
+      "###############",
+      "####AAAAAAAA###",
+      "###############",
+      "###############",
+      "###############"
+    ],
+    "blocks": [],
+    "hintsTop": [],
+    "hintsLeft": [],
+    "hintsRight": [ {"index": 0, "text": "Merecedor\nHonrado"},
+    {"index": 2, "text": "Escavação\nAlongada"}],
+    "hintsBottom": []
+  }
 
 ]
 
