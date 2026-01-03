@@ -84,7 +84,8 @@
       "###############"
     ],
     "blocks": [],
-    "hintsTop": [],
+    "hintsTop": [ {"index": 0, "text": "Ter de\nPagar"},
+    {"index": 2, "text": "Pancada\nMurro"}],
     "hintsLeft": [],
     "hintsRight": [ {"index": 0, "text": "Merecedor\nHonrado"},
     {"index": 2, "text": "Escavação\nAlongada"}],
