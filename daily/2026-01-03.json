@@ -16,25 +16,19 @@
       "row": 1,
       "col": 4,
       "text": "Estrela\nSistema\nSolar",
-      "arrows": ["DOWN"]
-    },
-    {
-      "row": 2,
-      "col": 1,
-      "text": "\nQue relevela \nCaridade\nDevoto Religioso",
-      "arrows": ["RIGHT"]
+      "arrows": ["TOP"]
     }
   ],
   "hintsTop": [
-    {"index": 0, "text": "Ter de\nPagar"},
-    {"index": 2, "text": "Pancada\nMurro"}
+    {"index": 0, "text": "Interior\ndo escroto"},
+    {"index": 3, "text": "Noite\n(contrário)"}
   ],
   "hintsLeft": [
-    {"index": 0, "text": "Merecedor\nHonrado"},
-    {"index": 2, "text": "Escavação\nAlongada"}
+    {"index": 0, "text": "Beira\na Pizza"},
+    {"index": 2, "text": "Conjuto\nfelinas\nselvagens"}
   ],
-  "hintsRight": [],
-  "hintsBottom": []
+  "hintsRight": [{"index": 4, "text": "Obejto\nde desenho"}],
+  "hintsBottom": [{"index": 2, "text": "Rainha\nda Catitu"},]
 },
 {
     "id": 2,
