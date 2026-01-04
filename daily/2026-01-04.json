@@ -70,6 +70,18 @@
       "text": "Queratina\nPonta da\nUnha",
       "arrows": ["DOWN"]},
 
+
+         {"row": 3,
+      "col": 7,
+      "text": "Ação de\ndoar",
+      "arrows": ["DOWN"]},
+
+      
+          {"row": 3,
+      "col": 2,
+      "text": "Filme de\nmedo\nsusto",
+      "arrows": ["DOWN"]},
+
       
        {"row": 5,
       "col": 4,
@@ -78,12 +90,12 @@
 
         {"row": 6,
       "col": 4,
-      "text": "Instituto\nmassachusetts",
+      "text": "Instituto\nmassachu-\nsetts",
       "arrows": ["DOWN"]},
 
        {"row": 7,
       "col": 8,
-      "text": "dizer\no nome",
+      "text": "Dizer\no nome",
       "arrows": ["LEFT"]},
 
         {"row": 9,
@@ -93,8 +105,8 @@
 
       
     ],
-    "hintsTop": [{"index": 0, "text": "estado de\nestabilidade\nharmonia"},{"index": 2, "text": "empresa d\ncarnes,\nlaticionios"},{"index": 6, "text": "antivírus\nformação de\nanticorpos"},{"index": 9, "text": "Letras\nentre vogais"}],
-    "hintsLeft": [{"index": 4, "text": "propriedade\nrural de\naristocracias"},{"index": 5, "text": "Árvore\nbrasileira\ncolorida"}],
+    "hintsTop": [{"index": 0, "text": "Estado de\nestabilidade\nharmonia"},{"index": 2, "text": "Empresa\n de carnes,\nlaticionios"},{"index": 6, "text": "Antivírus\nformação de\nanticorpos"},{"index": 9, "text": "Letras\nentre vogais"}],
+    "hintsLeft": [{"index": 0, "text": "Tontura e \nnáusea"}{"index": 4, "text": "Propriedade\nrural de\naristocracias"},{"index": 5, "text": "Árvore\nbrasileira\ncolorida"}],
     "hintsRight": [],
     "hintsBottom": []
   },
