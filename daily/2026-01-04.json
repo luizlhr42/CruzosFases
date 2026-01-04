@@ -36,22 +36,65 @@
     "rows": 10,
     "cols": 10,
     "layout": [
-"ENJOO#V##E",
-"Q#B#H#AIET",
+"ENJOO#V##C",
+"Q#B#H#ALHO",
 "UESILOC##N",
-"I##RI#I##A",
+"I##RI#I##S",
 "LATIFUNDIO",
-"IPES#NAO#S",
+"IPES#NAO#A",
 "B#R##H#A#N",
-"R#RAMAHC#O",
-"I#O#I##A#C",
+"R#RAMAHC#T",
+"I#O#I##A#E",
 "OIRATACOL#"
     ],
     "blocks": [
-       { "row": 0, "col": 9, "text": "Fim", "arrows": ["DOWN"] }
+      
+      {"row": 1,
+      "col": 3,
+      "text": "Parte/ncolorida/ndo olho",
+      "arrows": ["DOWN"]},
+
+       {"row": 1,
+      "col": 5,
+      "text": "Hortaliça/nque os vapiros/ntemem",
+      "arrows": ["RIGHT"]},
+
+
+        {"row": 2,
+      "col": 7,
+      "text": "Anfiteatro/nda Roma/nAntiga",
+      "arrows": ["LEFT"]},
+
+         {"row": 3,
+      "col": 5,
+      "text": "Queratina/nPonta da/nUnha",
+      "arrows": ["DOWN"]},
+
+      
+       {"row": 5,
+      "col": 4,
+      "text": "pessoa que/ndescende",
+      "arrows": ["TOP"]},
+
+        {"row": 6,
+      "col": 4,
+      "text": "Instituto/nmassachusetts",
+      "arrows": ["DOWN"]},
+
+       {"row": 7,
+      "col": 8,
+      "text": "dizer/no nome ",
+      "arrows": ["LEFT"]},
+
+        {"row": 9,
+      "col": 9,
+      "text": "Inquilino/n(sinômimo)",
+      "arrows": ["LEFT"]},
+
+      
     ],
-    "hintsTop": [],
-    "hintsLeft": [],
+    "hintsTop": [{"index": 0, "text": "estado de/nestabilidade/nharmonia"},{"index": 2, "text": "empresa de/ncarnes,/nlaticionios"},{"index": 6, "text": "antivírus/nformação de/nanticorpos"},{"index": 9, "text": "Letras/nentre vogais"}],
+    "hintsLeft": [{"index": 4, "text": "propriedade/nrural de/naristocracias"},{"index": 5, "text": "Árvore/nbrasileira/ncolorida"}],
     "hintsRight": [],
     "hintsBottom": []
   },
