@@ -36,16 +36,15 @@
     "rows": 10,
     "cols": 10,
     "layout": [
-      "BANANEIRA#",
-      "A#O#V#R##P",
-      "R#L#O#R##A",
-      "IGORLINDO",
-      "O###A##A#A",
-      "########L#",
-      "###CRUZ###",
-      "#T##O##A##",
-      "#E##R##T##",
-      "##########"
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA",
+"AAAAAAAAAA"
     ],
     "blocks": [
        { "row": 0, "col": 9, "text": "Fim", "arrows": ["DOWN"] }
