@@ -1,1 +1,147 @@
+[
+  {
+  "id": 1,
+  "difficulty": "EASY",
+  "rows": 5,
+  "cols": 5,
+  "layout": [
+    "BORDA",
+    "O##I#",
+    "LEOAS",
+    "A#I#O",
+    "SIPAL"
+  ],
+  "blocks": [
+    {
+      "row": 1,
+      "col": 4,
+      "text": "Estrela\nSistema\nSolar",
+      "arrows": ["DOWN"]
+    }
+  ],
+  "hintsTop": [
+    {"index": 0, "text": "Interior\ndo escroto"},
+    {"index": 3, "text": "Noite\n(contrário)"}
+  ],
+  "hintsLeft": [
+    {"index": 0, "text": "Beirada\nda Pizza"},
+    {"index": 2, "text": "Conjunto\nfelinas\nselvagens"}
+  ],
+  "hintsRight": [{"index": 4, "text": "Objeto\nde desenho"}],
+  "hintsBottom": [{"index": 2, "text": "Rainha\nda Catitu"}]
+},
+{
+    "id": 2,
+    "difficulty": "MEDIUM",
+    "rows": 10,
+    "cols": 10,
+    "layout": [
+"ENJOO#V##C",
+"Q#B#H#ALHO",
+"UESILOC##N",
+"I##RI#I##S",
+"LATIFUNDIO",
+"IPES#NAO#A",
+"B#R##H#A#N",
+"R#RAMAHC#T",
+"I#O#I##A#E",
+"OIRATACOL#"
+    ],
+    "blocks": [
+      
+      {"row": 1,
+      "col": 3,
+      "text": "Parte\ncolorida\ndo olho",
+      "arrows": ["DOWN"]},
+
+       {"row": 1,
+      "col": 5,
+      "text": "Hortaliça\nque os vampiros\ntemem",
+      "arrows": ["RIGHT"]},
+
+
+        {"row": 2,
+      "col": 7,
+      "text": "Anfiteatro\nda Roma\nAntiga",
+      "arrows": ["LEFT"]},
+
+         {"row": 3,
+      "col": 5,
+      "text": "Queratina\nPonta do\ndedo",
+      "arrows": ["DOWN"]},
+
+
+         {"row": 3,
+      "col": 7,
+      "text": "Ação de\ndoar",
+      "arrows": ["DOWN"]},
+
+      
+          {"row": 3,
+      "col": 2,
+      "text": "Filme de\nmedo\nsusto",
+      "arrows": ["DOWN"]},
+
+      
+       {"row": 5,
+      "col": 4,
+      "text": "Pessoa que\ndescende",
+      "arrows": ["TOP"]},
+
+        {"row": 6,
+      "col": 4,
+      "text": "Instituto\nmassachu-\nsetts",
+      "arrows": ["DOWN"]},
+
+       {"row": 7,
+      "col": 8,
+      "text": "Dizer\no nome",
+      "arrows": ["LEFT"]},
+
+        {"row": 9,
+      "col": 9,
+      "text": "Inquilino\n(sinômimo)",
+      "arrows": ["LEFT"]}
+
+      
+    ],
+    "hintsTop": [{"index": 0, "text": "Estado de\nestabilidade\nharmonia"},{"index": 2, "text": "Empresa\n de carnes,\nlaticionios"},{"index": 6, "text": "Antivírus\nformação de\nanticorpos"},{"index": 9, "text": "Letras\nentre vogais"}],
+    "hintsLeft": [{"index": 0, "text": "Tontura e \nnáusea"},{"index": 4, "text": "Propriedade\nrural de\naristocratas"},{"index": 5, "text": "Árvore\nbrasileira\ncolorida"}],
+    "hintsRight": [],
+    "hintsBottom": []
+  },
+  {
+    "id": 3,
+    "difficulty": "HARD",
+    "rows": 15,
+    "cols": 15,
+    "layout": [
+      "COMPUTADORES###",
+      "O##O###A##A####",
+      "D##U###T##T####",
+      "I##S###O##O####",
+      "G#########S####",
+      "O##############",
+      "###############",
+      "##INTERNET#####",
+      "###############",
+      "###############",
+      "###############",
+      "####AAAAAAAA###",
+      "###############",
+      "####AAAAAAAA###",
+      "###############"
+    ],
+    "blocks": [],
+    "hintsTop": [ {"index": 0, "text": "Ter de\nPagar"},
+    {"index": 2, "text": "Pancada\nMurro"}],
+    "hintsLeft": [],
+    "hintsRight": [ {"index": 0, "text": "Merecedor\nHonrado"},
+    {"index": 2, "text": "Escavação\nAlongada"}],
+    "hintsBottom": [ {"index": 0, "text": "Ter de\nPagar"},
+    {"index": 2, "text": "Pancada\nMurro"}]
+  }
+
+]
+
 
