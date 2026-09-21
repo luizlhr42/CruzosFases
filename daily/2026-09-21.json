@@ -13,9 +13,9 @@
   ],
   "blocks": [
     {
-      "row": 1,
-      "col": 4,
-      "text": "Estrela\nSistema\nSolar",
+      "row": 4,
+      "col": 2,
+      "text": "QUENTE",
       "arrows": ["DOWN"]
     }
   ],
