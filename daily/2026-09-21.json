@@ -13,15 +13,15 @@
   ],
   "blocks": [
     {
-      "row": 4,
-      "col": 2,
+      "row": 3,
+      "col": 1,
       "text": "QUENTE",
-      "arrows": ["DOWN"]
+      "arrows": ["RIGHT"]
     }
   ],
   "hintsTop": [
-    {"index": 0, "text": "Interior\ndo escroto"},
-    {"index": 3, "text": "Noite\n(contrário)"}
+    {"index": 0, "text": "Regra\nNecessaria"},
+    {"index": 4, "text": "\n(contrário)"}
   ],
   "hintsLeft": [
     {"index": 0, "text": "Beirada\nda Pizza"},
