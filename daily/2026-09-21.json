@@ -6,9 +6,9 @@
   "cols": 5,
   "layout": [
     "BORDA",
-    "O##I#",
+    "Owwww",
     "LEOAS",
-    "A#I#O",
+    "AwIwO",
     "SIPAL"
   ],
   "blocks": [
@@ -36,15 +36,15 @@
     "rows": 10,
     "cols": 10,
     "layout": [
-"ENJOO#V##C",
-"Q#B#H#ALHO",
-"UESILOC##N",
-"I##RI#I##S",
+"ENJOOwVwwC",
+"QwBwHwALHO",
+"UESILOCwwN",
+"IwwRwwIwwS",
 "LATIFUNDIO",
-"IPES#NAO#A",
-"B#R##H#A#N",
-"R#RAMAHC#T",
-"I#O#I##A#E",
+"IPESwNAOwA",
+"BwRwwH#AwN",
+"ReRAMAHCwT",
+"IwwwIwwAww",
 "OIRATACOL#"
     ],
     "blocks": [
