@@ -27,9 +27,9 @@
   "hintsLeft": [
     {"index": 1, "text": "Segundo\nLivro\nBiblia"},
     {"index": 4, "text": "Gameta\nfeminino\nComestível"}
-  ],
+  ]
   
-  }
+  },
 {
     "id": 2,
     "difficulty": "MEDIUM",
