@@ -15,21 +15,21 @@
     {
       "row": 3,
       "col": 1,
-      "text": "QUENTE",
+      "text": "Quente",
       "arrows": ["RIGHT"]
     }
   ],
   "hintsTop": [
-    {"index": 0, "text": "Regra\nNecessaria"},
-    {"index": 4, "text": "\n(contrário)"}
+    {"index": 0, "text": "Regras\nNecessaria"},
+    {"index": 2, "text": "Pensamentos\ndurante\nSono"},
+    {"index": 4, "text": "Óbito\nFalecimento"}
   ],
   "hintsLeft": [
-    {"index": 0, "text": "Beirada\nda Pizza"},
-    {"index": 2, "text": "Conjunto\nfelinas\nselvagens"}
+    {"index": 1, "text": "Segundo\nLivro\nBiblia"},
+    {"index": 4, "text": "Gameta\nfeminino\nComestível"}
   ],
-  "hintsRight": [{"index": 4, "text": "Objeto\nde desenho"}],
-  "hintsBottom": [{"index": 2, "text": "Rainha\nda Catitu"}]
-},
+  
+
 {
     "id": 2,
     "difficulty": "MEDIUM",
