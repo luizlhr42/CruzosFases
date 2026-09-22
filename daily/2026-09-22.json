@@ -29,7 +29,7 @@
     {"index": 4, "text": "Gameta\nfeminino\nComestível"}
   ],
   
-
+  }
 {
     "id": 2,
     "difficulty": "MEDIUM",
@@ -110,6 +110,7 @@
     "hintsRight": [],
     "hintsBottom": []
   },
+  
   {
     "id": 3,
     "difficulty": "HARD",
